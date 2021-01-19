@@ -1,4 +1,4 @@
-Vagrant.configure("2") do |config|
+vagrant.configure("2") do |config|
  config.vm.box = "anhdht/mysql"
  config.vm.box_version = "0.0.1"
 
