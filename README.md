@@ -10,7 +10,7 @@
 ## Clone this Repository
 
 ```
-# git clone https://github.com/dlavric/VagrantTestMtsqlWebsite
+# git clone https://github.com/dlavric/VagrantTestMysqlWebsite
 # cd VagrantTestMysqlWebsite
 ```
 
